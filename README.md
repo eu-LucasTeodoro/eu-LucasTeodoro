@@ -64,7 +64,8 @@ Aberto a novos projetos, parcerias e trocas de conhecimento. Se você precisa de
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Teodoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teodoro3)
-[![GitHub](https://img.shields.io/badge/GitHub-Siga_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Siga_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com//eu-LucasTeodoro)
+[![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-Pe%C3%A7a_seu_or%C3%A7amento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511955027949?text=Ol%C3%A1%2C%20Lucas!%20Vim%20pelo%20seu%20GitHub%20e%20gostaria%20de%20um%20or%C3%A7amento%20para%20um%20site.)
 
 <br>
 
