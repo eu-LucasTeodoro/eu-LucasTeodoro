@@ -57,19 +57,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<!-- Substitua SEU-USUARIO pelo seu nome de usuário do GitHub -->
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3B82F6" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Linguagens mais usadas" />
-
-</div>
-
----
-
 ## 📫 Vamos Conversar?
 
 Aberto a novos projetos, parcerias e trocas de conhecimento. Se você precisa de um site para o seu negócio, ou só quer bater um papo sobre tecnologia, fique à vontade!
