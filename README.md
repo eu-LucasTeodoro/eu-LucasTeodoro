@@ -19,8 +19,7 @@
 - 🎓 Estudante de programação, em constante evolução e focado em **desenvolvimento de software**
 - 💻 Aprofundando meus conhecimentos em **Kotlin** e **Java**
 - 🌐 Fundador do **Teodoro Digital Studio**, onde crio **landing pages** e **sites institucionais** para negócios locais
-- 🎨 Apaixonado por **UI/UX**: projeto interfaces e protótipos no Figma antes de codar
-- 📚 Leitor de **literatura clássica** e fã de **jogos de RPG**
+- 📚 Leitor de **literatura clássica** e fã de animes
 - ⚡ Acredito que a tecnologia é uma ferramenta para transformar ideias em realidade
 
 ---
@@ -46,7 +45,6 @@
 
 ### 🎨 Design de Interfaces
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Prot%C3%B3tipos-A259FF?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ### 🛠️ Ferramentas
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
